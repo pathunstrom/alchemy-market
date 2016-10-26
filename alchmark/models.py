@@ -25,9 +25,9 @@ class Model(object):
         self.validate()
 
     @staticmethod
-    def get(_id=None):
+    def get(id=None):
 
-        return __class__(id=_id)
+        return __class__(id=id)
 
     def create(self):
         document = self.as_dict(bson=True)
