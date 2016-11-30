@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/pathunstrom/alchemy-market.png?label=ready&title=Ready)](https://waffle.io/pathunstrom/alchemy-market)
 # Alchemy Market
 
 A digital collectibles game. Find, buy, auction, and build components and 
